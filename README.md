@@ -15,5 +15,5 @@
 * ik raad een w
 * ik raad een y (niet goed)
 * ik raad, de letter R (niet goed)
-* ik raad, de letter B
-* ik raad, de letter M
+* ik raad, de letter B(niet goed)
+* ik raad, de letter M(nietgoed)
