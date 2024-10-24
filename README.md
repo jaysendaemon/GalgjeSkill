@@ -25,5 +25,4 @@
 =======
 * ik raad de letter A
 * ik raad, de letter D
->>>>>>> 72252d7d6b0273f8fbed7ce9b06ecb8d14f2657e
->>>>>>> 31739fe9784fce6c4f9a165a312896f0254e157a
+
