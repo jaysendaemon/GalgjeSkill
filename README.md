@@ -25,4 +25,5 @@ f|i|e|t|s|
 =======
 * ik raad de letter A
 * ik raad, de letter D
+**ik raad**, de letter F; 
 
